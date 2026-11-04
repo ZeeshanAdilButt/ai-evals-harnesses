@@ -25,6 +25,7 @@ sys.path.insert(0, str(ROOT))
 
 from evalkit.graders.agent import (  # noqa: E402,F401  (shipped)
     first_failing_step_of, grade_final_state, is_simulator_failure, load_orders, load_runs, load_tasks, order_total)
+from evalkit.graders.helpers import cents  # noqa: E402  (shipped)
 from evalkit.stats import pass_hat_k  # noqa: E402,F401  (shipped)
 
 
@@ -32,8 +33,8 @@ def grade_trajectory(trial, task):
     """Check the three kinds of rule, in this order, and return the first one broken as a dict
     {"pass": bool, "rule": "R1", "R2", "R3" or None, "detail": a short sentence}.
 
-    R1, task["never"]: "any_refund" (no issue_refund call at all), "refund_twice" (more than one issue_refund call),
-        "refund_over_total" (the refund amounts add up to more than order_total(task) + 0.01).
+    R1, task["never"]: "any_refund" (no issue_refund call at all), "refund_twice" (more than one issue_refund call; every task names one order),
+        "refund_over_total" (the refund amounts add up to more than order_total(task), compared in whole cents with cents()).
     R2, task["before"]: a list of [first, then] pairs of tool names. If `then` was called, `first` must have been called earlier. If `then` is
         the word "end" the pair means `first` must be called at some point.
     R3, task["step_budget"]: more tool calls than the budget breaks it.

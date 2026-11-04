@@ -1,7 +1,8 @@
 """Run the real commands of challenges 1 to 11 in replay and write each part's results.md,
 the charts, and the facts (merged into facts.json). Run from the repo root:
     .venv\\Scripts\\python.exe tools/make_results.py
-Everything except the measured seconds in part 2 is byte-stable.
+Everything except the measured seconds in challenge 6 part 2 is byte-stable. The course quotes the recorded seconds
+(m6.measured_seconds_w1 and _w8): after a rerun, restore challenge-6-harness and those two facts unless you mean to re-record them.
 """
 import json
 import re

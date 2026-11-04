@@ -235,7 +235,8 @@ def cmd_stats(args) -> int:
             return 1
         r = json.loads(path.read_text(encoding="utf-8"))
         n_fail, n_pass = r["tp"] + r["fn"], r["tn"] + r["fp"]
-        print(f"judge {r['judge']} on the test split ({r['label_source']} labels), fail is the positive class")
+        src = {"confirmed": "accepted label set", "draft": "draft labels"}.get(r["label_source"], r["label_source"])
+        print(f"judge {r['judge']} on the test split ({src}), fail is the positive class")
         for name, k, n in (("TPR", r["tp"], n_fail), ("TNR", r["tn"], n_pass)):
             lo, hi = stats.rate_interval(k, n)
             edge = " (rule of three: all correct)" if k == n else " (rule of three: none correct)" if k == 0 else ""

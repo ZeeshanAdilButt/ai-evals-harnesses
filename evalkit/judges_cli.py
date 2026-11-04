@@ -404,7 +404,7 @@ def cmd_probes(argv: list[str]) -> int:
     s = r["selfpref"]
     note = "" if judge == "v3" else f" (recorded for v3 only; shown here for v3, the judge every learner reads)"
     print(f"self-preference: the same-family judge v3 passes {s['v3_pass']}% of {s['n']} replies and the second-family judge passes {s['second_pass']}%: "
-          f"gap {s['gap_points']} points against {s['noise_move_points']} points moved by the rerun of v3{note}")
+          f"gap {s['gap_points']} points against {s['noise_move_points']} points that v3's own pass rate moved on a rerun of the same {s['n']} replies{note}")
     print("a count only a little above the rerun reference is not a finding; for judges other than v3 the reference is a rough guide")
     return 0
 

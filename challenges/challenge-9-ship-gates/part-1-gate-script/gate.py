@@ -128,8 +128,8 @@ def check_floor(run: Run, floors: dict) -> list:
 def check_margin(run: Run, baseline: Run, margins: dict) -> list:
     """margins: feature -> noise margin. For each feature, drop = baseline score - run score (both over the same non-quarantined cases).
     A drop larger than the margin is a BLOCK line. While a feature's drop is within its margin, every stable-pass baseline case of that
-    feature that is not must-pass and now passes fewer than all its trials is a WARN line. Quarantined cases get one INFO line each
-    feature: how many were left out. baseline.stable(key), baseline.must_pass and run.quarantined are what you need."""
+    feature that is not must-pass and now passes fewer than all its trials is a WARN line. Quarantined cases get one INFO line for each
+    feature, printed first, even when the feature blocks: how many were left out. baseline.stable(key), baseline.must_pass and run.quarantined are what you need."""
     raise NotImplementedError("YOUR TURN: BLOCK for a drop over the margin; WARN for a slipped stable case inside the margin; INFO for the quarantine")
 
 
