@@ -1,0 +1,9 @@
+name = "m1-triage"
+description = "Module 1: ten canonical v1 cases, triage, trial 1 only. A and B pass the same number, and cases flip both ways."
+
+[[part]]
+feature = "triage"
+dataset = "datasets/canonical/v1/cases.jsonl"
+trials = 1
+cases = ["t001", "t008", "t017", "t071", "t002", "t074", "t312", "t207", "t006", "t330"]
+graders = ["schema", "match"]

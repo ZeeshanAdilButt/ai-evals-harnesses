@@ -1,0 +1,20 @@
+name = "full"
+description = "Canonical v1 (triage and reply) and the 40 agent tasks, five trials."
+
+[[part]]
+feature = "triage"
+dataset = "datasets/canonical/v1/cases.jsonl"
+trials = 5
+graders = ["schema", "match"]
+
+[[part]]
+feature = "reply"
+dataset = "datasets/canonical/v1/cases.jsonl"
+trials = 5
+graders = ["reply_facts"]
+
+[[part]]
+feature = "agent"
+dataset = "datasets/agent_tasks.jsonl"
+trials = 5
+graders = ["agent_state", "agent_trajectory"]

@@ -1,0 +1,16 @@
+{"id": "t177", "field": "tone", "expected": "calm", "should_be": "angry", "reason": "Sarcastic thanks for a surprise charge, same pattern as other angry sarcasm tickets.", "clear": true}
+{"id": "t318", "field": "tone", "expected": "calm", "should_be": "angry", "reason": "'Great service, truly' is sarcasm about a reset email that never arrives.", "clear": true}
+{"id": "t370", "field": "tone", "expected": "calm", "should_be": "angry", "reason": "Sarcastic jab about nine failed login tries, not calm.", "clear": true}
+{"id": "t338", "field": "tone", "expected": "angry", "should_be": "calm", "reason": "A plain gluten free question with a phone number, no anger anywhere.", "clear": true}
+{"id": "t357", "field": "tone", "expected": "confused", "should_be": "calm", "reason": "Polite, clear explanation of a payment failure with no confusion shown.", "clear": true}
+{"id": "t062", "field": "category", "expected": "product", "should_be": "refund", "reason": "The customer asks 'can you refund it?', and asking for money back is refund under the guide.", "clear": true}
+{"id": "t108", "field": "category", "expected": "delivery", "should_be": "refund", "reason": "The explicit ask is a refund of the delivery fee, which is refund under the guide.", "clear": true}
+{"id": "t161", "field": "category", "expected": "delivery", "should_be": "refund", "reason": "The explicit ask is the delivery fee back, which is refund under the guide.", "clear": true}
+{"id": "t341", "field": "category", "expected": "delivery", "should_be": "refund", "reason": "The explicit ask is whether the delivery fee can be returned, which is refund.", "clear": true}
+{"id": "t353", "field": "category", "expected": "billing", "should_be": "refund", "reason": "The question is about the status of a refund, which the guide puts under refund.", "clear": true}
+{"id": "t039", "field": "urgent", "expected": false, "should_be": true, "reason": "Milk and cheese arrived warm, a possible food safety risk.", "clear": false}
+{"id": "t062", "field": "urgent", "expected": false, "should_be": true, "reason": "Milk tastes off and the carton is puffy, a possible food safety risk.", "clear": false}
+{"id": "t218", "field": "urgent", "expected": false, "should_be": true, "reason": "Order out for delivery since this morning and no driver came, so today's delivery is missing.", "clear": false}
+{"id": "t220", "field": "urgent", "expected": false, "should_be": true, "reason": "Today's delivery of a whole week of food was marked attempted and has not arrived.", "clear": false}
+{"id": "t291", "field": "urgent", "expected": false, "should_be": true, "reason": "A delivery due today is two hours late and has not arrived.", "clear": false}
+{"id": "t313", "field": "urgent", "expected": true, "should_be": false, "reason": "A peanut question with no sign of harm or that anything is being eaten today.", "clear": false}

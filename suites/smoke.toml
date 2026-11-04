@@ -1,0 +1,16 @@
+name = "smoke"
+description = "A subset of full: every must-pass case and four dev cases per category, five trials. Built by smoke.py in 9.7."
+
+[[part]]
+feature = "triage"
+dataset = "datasets/canonical/v1/cases.jsonl"
+trials = 5
+cases = ["t002", "t006", "t019", "t021", "t032", "t033", "t041", "t042", "t044", "t049", "t050", "t057", "t060", "t064", "t066", "t070", "t071", "t079", "t083", "t090", "t097", "t104", "t114", "t123", "t164", "t306", "t345", "t355"]
+graders = ["schema", "match"]
+
+[[part]]
+feature = "reply"
+dataset = "datasets/canonical/v1/cases.jsonl"
+trials = 5
+cases = ["t002", "t006", "t019", "t021", "t032", "t033", "t041", "t042", "t044", "t049", "t050", "t057", "t060", "t064", "t066", "t070", "t071", "t079", "t083", "t090", "t097", "t104", "t114", "t123", "t164", "t306", "t345", "t355"]
+graders = ["reply_facts"]

@@ -1,0 +1,8 @@
+name = "v1-reply"
+description = "Canonical dataset v1 (160 cases), reply, trial 1. Reply graders arrive in module 4; this runs the placeholder."
+
+[[part]]
+feature = "reply"
+dataset = "datasets/canonical/v1/cases.jsonl"
+trials = 1
+graders = ["reply_nonempty"]

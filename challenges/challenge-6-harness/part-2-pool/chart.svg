@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 280" width="480" height="280" font-family="sans-serif" font-size="12">
+<rect width="480" height="280" fill="white"/>
+<line x1="60" y1="240" x2="440" y2="240" stroke="black"/><line x1="60" y1="40" x2="60" y2="240" stroke="black"/>
+<polyline fill="none" stroke="black" stroke-width="2" points="60,65 114,152 223,196 440,218"/>
+<polyline fill="none" stroke="gray" stroke-width="2" stroke-dasharray="5 4" points="60,58 114,148 223,194 440,216"/>
+<text x="240.0" y="20" text-anchor="middle">Run time of pool400 (0.05 x recorded latency) against workers</text>
+<text x="250" y="270" text-anchor="middle">workers</text><text x="14" y="150" transform="rotate(-90 14 150)" text-anchor="middle">seconds</text>
+<text x="300" y="60">solid: formula</text><text x="300" y="76" fill="gray">dashed: measured</text>
+<text x="60" y="256" text-anchor="middle">1</text>
+<text x="114" y="256" text-anchor="middle">2</text>
+<text x="223" y="256" text-anchor="middle">4</text>
+<text x="440" y="256" text-anchor="middle">8</text>
+</svg>

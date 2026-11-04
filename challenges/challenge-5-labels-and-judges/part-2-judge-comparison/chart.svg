@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 280" width="480" height="280" font-family="sans-serif" font-size="12">
+<rect width="480" height="280" fill="white"/>
+<line x1="60" y1="240" x2="440" y2="240" stroke="black"/><line x1="60" y1="40" x2="60" y2="240" stroke="black"/>
+<text x="240.0" y="20" text-anchor="middle">Dev TNR of four judges (fail is the positive class)</text>
+<text x="250" y="272" text-anchor="middle">judge</text><text x="14" y="150" transform="rotate(-90 14 150)" text-anchor="middle">TNR %</text>
+<rect x="46" y="75" width="28" height="165" fill="black"/>
+<rect x="173" y="75" width="28" height="165" fill="black"/>
+<rect x="299" y="83" width="28" height="157" fill="black"/>
+<rect x="426" y="66" width="28" height="174" fill="black"/>
+<text x="60" y="256" text-anchor="middle">v1</text>
+<text x="60" y="69" text-anchor="middle">95</text>
+<text x="187" y="256" text-anchor="middle">v2</text>
+<text x="187" y="69" text-anchor="middle">95</text>
+<text x="313" y="256" text-anchor="middle">v3</text>
+<text x="313" y="77" text-anchor="middle">90</text>
+<text x="440" y="256" text-anchor="middle">d0r0e2</text>
+<text x="440" y="60" text-anchor="middle">100</text>
+</svg>

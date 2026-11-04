@@ -1,0 +1,85 @@
+{"id": "t001-A1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t001-B1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t001-B2", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t004-A1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t004-B1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t004-B2", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t005-A1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t005-B1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t005-B2", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t010-A1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t010-B1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t010-B2", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t016-A1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t016-B1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t016-B2", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t017-A1", "verdict": "pass", "reason": "Photo already attached and 5 working days and original method are right, but 'You don't need to return the bread' is a claim the policy does not make.", "confidence": "low"}
+{"id": "t017-B1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t017-B2", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t020-A1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t020-B1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t020-B2", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t024-A1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t024-B1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t024-B2", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t030-A1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t030-B1", "verdict": "pass", "reason": "Passes the case to a team member today and refunds only 'once it's confirmed', but never asks for the photo (says 'Thanks for sending the photo' though the customer said it is on the way).", "confidence": "low"}
+{"id": "t030-B2", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t047-A1", "verdict": "pass", "reason": "Asks for a photo, 7 days and 5 working days are right, but 'can't offer a refund of only the price difference' is a rule the policy does not state.", "confidence": "low"}
+{"id": "t047-B1", "verdict": "fail", "reason": "Promises 'we'll refund the difference', an amount the policy does not provide for a wrong item.", "confidence": "low"}
+{"id": "t047-B2", "verdict": "fail", "reason": "Promises 'a refund for the difference', an amount the policy does not provide for a wrong item.", "confidence": "low"}
+{"id": "t049-A1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t049-B1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t049-B2", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t060-A1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t060-B1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t060-B2", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t062-A1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t062-B1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t062-B2", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t066-A1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t066-B1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t066-B2", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t067-A1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t067-B1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t067-B2", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t071-A1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t071-B1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t071-B2", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t074-A1", "verdict": "pass", "reason": "Sends the case to a team member today and asks for a photo, but 'your refund will go back' once the photo arrives edges toward deciding a refund on a food safety case.", "confidence": "low"}
+{"id": "t074-B1", "verdict": "fail", "reason": "Food safety case sent to a team member, but 'we'll sort out your full refund' promises the full refund the customer asked for.", "confidence": "low"}
+{"id": "t074-B2", "verdict": "fail", "reason": "Promises 'Aapka poora refund bhi process hoga' (full refund) on a case where someone ate the food, and decides the refund instead of leaving it to the person.", "confidence": "high"}
+{"id": "t075-A1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t075-B1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t075-B2", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t079-A1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t079-B1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t079-B2", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t081-A1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t081-B1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t081-B2", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t084-A1", "verdict": "pass", "reason": "Sends the case to a team member today and leaves the wider refund to them, but 'the bread is covered by our policy' leans toward deciding the refund.", "confidence": "low"}
+{"id": "t084-B1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t084-B2", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t085-A1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t085-B1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t085-B2", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t086-A1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t086-B1", "verdict": "pass", "reason": "Photos, 7 days and 5 working days are right, but 'back to your card' assumes the card is the original payment method.", "confidence": "low"}
+{"id": "t086-B2", "verdict": "pass", "reason": "Photos, 7 days and 5 working days are right, but 'reach your card' assumes the card is the original payment method.", "confidence": "low"}
+{"id": "t104-A1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t104-B1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t104-B2", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t107-A1", "verdict": "pass", "reason": "All steps present, but 'the card you paid with' is accepted as the original payment method.", "confidence": "low"}
+{"id": "t107-B1", "verdict": "pass", "reason": "Photos asked for eggs and spinach, spinach passed to a person today, but 'refunded to your card' assumes it is the original payment method.", "confidence": "low"}
+{"id": "t107-B2", "verdict": "pass", "reason": "Photos asked for eggs and spinach, spinach passed to a person today, but 'refund ... to your card' assumes it is the original payment method.", "confidence": "low"}
+{"id": "t108-A1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t108-B1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t108-B2", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t112-A1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t112-B1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t112-B2", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t114-A1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t114-B1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t114-B2", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}
+{"id": "t117-A1", "verdict": "pass", "reason": "Every refund fact matches the policy and no required step is missing.", "confidence": "high"}

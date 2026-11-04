@@ -1,0 +1,93 @@
+# Variants of the FreshMarket assistant. A variant is a prompt and a model.
+[A]
+description = "current prompt, current model"
+model = "claude-sonnet-5-5"
+triage_prompt = "prompts/triage_A.md"
+reply_prompt = "prompts/reply_A.md"
+agent_prompt = "prompts/agent_A.md"
+
+[B]
+description = "triage: one sentence changed (urgent only for food safety); reply: rewritten to be warm and brief; agent: rules replaced by \"resolve quickly, refunds are the fastest way\""
+model = "claude-sonnet-5-5"
+triage_prompt = "prompts/triage_B.md"
+reply_prompt = "prompts/reply_B.md"
+agent_prompt = "prompts/agent_B.md"
+
+[A-day5]
+description = "the reply prompt deployed on day 5 of the traffic week: one sentence added for mixed-language tickets"
+model = "claude-sonnet-5-5"
+triage_prompt = "prompts/triage_A.md"
+reply_prompt = "prompts/reply_A_day5.md"
+agent_prompt = "prompts/agent_A.md"
+
+[candidate]
+description = "upgrade candidate: the cheaper, faster model with the author's shortened prompts"
+model = "claude-haiku-5-5"
+triage_prompt = "prompts/triage_candidate.md"
+reply_prompt = "prompts/reply_candidate.md"
+agent_prompt = "prompts/agent_candidate.md"
+
+[A-2025]
+description = "an older reply prompt still deployed in one channel: prompt A with last year's policy text"
+model = "claude-sonnet-5-5"
+triage_prompt = "prompts/triage_A.md"
+reply_prompt = "prompts/reply_A.md"
+policy = "policy_2025.md"
+agent_prompt = "prompts/agent_A.md"
+
+[T1]
+description = "7.8 tuning round 1: prompt A plus 1 rule(s) written from A's dev errors"
+model = "claude-sonnet-5-5"
+triage_prompt = "prompts/triage_tune1.md"
+reply_prompt = "prompts/reply_A.md"
+agent_prompt = "prompts/agent_A.md"
+
+[T2]
+description = "7.8 tuning round 2: prompt A plus 2 rule(s) written from A's dev errors"
+model = "claude-sonnet-5-5"
+triage_prompt = "prompts/triage_tune2.md"
+reply_prompt = "prompts/reply_A.md"
+agent_prompt = "prompts/agent_A.md"
+
+[T3]
+description = "7.8 tuning round 3: prompt A plus 3 rule(s) written from A's dev errors"
+model = "claude-sonnet-5-5"
+triage_prompt = "prompts/triage_tune3.md"
+reply_prompt = "prompts/reply_A.md"
+agent_prompt = "prompts/agent_A.md"
+
+[T4]
+description = "7.8 tuning round 4: prompt A plus 4 rule(s) written from A's dev errors"
+model = "claude-sonnet-5-5"
+triage_prompt = "prompts/triage_tune4.md"
+reply_prompt = "prompts/reply_A.md"
+agent_prompt = "prompts/agent_A.md"
+
+[T5]
+description = "7.8 tuning round 5: prompt A plus 5 rule(s) written from A's dev errors"
+model = "claude-sonnet-5-5"
+triage_prompt = "prompts/triage_tune5.md"
+reply_prompt = "prompts/reply_A.md"
+agent_prompt = "prompts/agent_A.md"
+
+[ci-regression]
+description = "CI branch ci/regression: reply prompt A without the sentence that asks for a photo or order number"
+model = "claude-sonnet-5-5"
+triage_prompt = "prompts/triage_A.md"
+reply_prompt = "prompts/reply_ci_regression.md"
+agent_prompt = "prompts/agent_A.md"
+
+[ci-harmless]
+description = "CI branch ci/harmless: reply prompt A with a reworded sign-off"
+model = "claude-sonnet-5-5"
+triage_prompt = "prompts/triage_A.md"
+reply_prompt = "prompts/reply_ci_harmless.md"
+agent_prompt = "prompts/agent_A.md"
+
+[A-day5-mixed]
+description = "the day 5 release, mixed-language tickets: a new reply template that lost the policy block (the planted break)"
+model = "claude-sonnet-5-5"
+triage_prompt = "prompts/triage_A.md"
+reply_prompt = "prompts/reply_A_day5.md"
+policy = "policy_missing.md"
+agent_prompt = "prompts/agent_A.md"

@@ -1,0 +1,8 @@
+name = "v1-triage"
+description = "Canonical dataset v1 (160 cases), triage, trial 1."
+
+[[part]]
+feature = "triage"
+dataset = "datasets/canonical/v1/cases.jsonl"
+trials = 1
+graders = ["schema", "match"]

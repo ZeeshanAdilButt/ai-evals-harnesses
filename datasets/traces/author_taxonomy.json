@@ -1,0 +1,311 @@
+{
+  "note": "Draft by the course agent for the author to review. One top mode per trace: the first failure in the reply, read in id order. tr01 to tr30 were read for this taxonomy only; the author's open notes cover tr31 to tr60. No failure is counted so that counts sum to 60, and is not ranked.",
+  "trace_count": 60,
+  "modes": [
+    {
+      "id": "unsupported_fact",
+      "name": "States a fact it cannot support",
+      "definition": "Says something as fact about the order or the policy that the ticket and the policy do not support: a delivery date, an amount, a refund window the customer is inside, or a lateness rule applied wrongly.",
+      "count": 11,
+      "cost_weight": 3,
+      "score": 33,
+      "example_trace": "tr52",
+      "first_seen": "tr01",
+      "trace_ids": [
+        "tr01",
+        "tr06",
+        "tr08",
+        "tr09",
+        "tr11",
+        "tr29",
+        "tr35",
+        "tr39",
+        "tr45",
+        "tr52",
+        "tr60"
+      ],
+      "rank": 1
+    },
+    {
+      "id": "impersonal_opening",
+      "name": "Opens with a cold greeting",
+      "definition": "Starts with 'Dear customer,' or a similar form, to a customer who is upset or who raised a safety problem.",
+      "count": 2,
+      "cost_weight": 1,
+      "score": 2,
+      "example_trace": "tr49",
+      "first_seen": "tr10",
+      "trace_ids": [
+        "tr10",
+        "tr49"
+      ],
+      "rank": 5
+    },
+    {
+      "id": "invented_detail",
+      "name": "Invents a product detail",
+      "definition": "Describes how the app or the account works in a way neither the policy nor the ticket gives, such as a menu path or a rule about reset links.",
+      "count": 2,
+      "cost_weight": 2,
+      "score": 4,
+      "example_trace": "tr18",
+      "first_seen": "tr18",
+      "trace_ids": [
+        "tr18",
+        "tr33"
+      ],
+      "rank": 3
+    },
+    {
+      "id": "unasked_language",
+      "name": "Switches language unasked",
+      "definition": "Adds a line in, or writes the whole reply in, a language the customer used only in part, or offers help in a language.",
+      "count": 4,
+      "cost_weight": 1,
+      "score": 4,
+      "example_trace": "tr48",
+      "first_seen": "tr22",
+      "trace_ids": [
+        "tr22",
+        "tr48",
+        "tr55",
+        "tr58"
+      ],
+      "rank": 4
+    },
+    {
+      "id": "false_action_or_promise",
+      "name": "Claims an action or result it cannot deliver",
+      "definition": "Says it is checking, escalating or has flagged something outside the food safety hand-off, or promises a fix or a refund the policy does not give. This feature only writes text.",
+      "count": 8,
+      "cost_weight": 2,
+      "score": 16,
+      "example_trace": "tr50",
+      "first_seen": "tr27",
+      "trace_ids": [
+        "tr27",
+        "tr28",
+        "tr31",
+        "tr46",
+        "tr50",
+        "tr51",
+        "tr57",
+        "tr59"
+      ],
+      "rank": 2
+    },
+    {
+      "id": "no_failure",
+      "name": "No failure found",
+      "definition": "The reply states the policy facts it needs, makes no promise outside the policy and answers what was asked.",
+      "count": 33,
+      "cost_weight": 0,
+      "score": null,
+      "example_trace": "tr41",
+      "first_seen": "tr02",
+      "trace_ids": [
+        "tr02",
+        "tr03",
+        "tr04",
+        "tr05",
+        "tr07",
+        "tr12",
+        "tr13",
+        "tr14",
+        "tr15",
+        "tr16",
+        "tr17",
+        "tr19",
+        "tr20",
+        "tr21",
+        "tr23",
+        "tr24",
+        "tr25",
+        "tr26",
+        "tr30",
+        "tr32",
+        "tr34",
+        "tr36",
+        "tr37",
+        "tr38",
+        "tr40",
+        "tr41",
+        "tr42",
+        "tr43",
+        "tr44",
+        "tr47",
+        "tr53",
+        "tr54",
+        "tr56"
+      ]
+    }
+  ],
+  "ranking": [
+    {
+      "rank": 1,
+      "id": "unsupported_fact",
+      "name": "States a fact it cannot support",
+      "count": 11,
+      "cost_weight": 3,
+      "score": 33
+    },
+    {
+      "rank": 2,
+      "id": "false_action_or_promise",
+      "name": "Claims an action or result it cannot deliver",
+      "count": 8,
+      "cost_weight": 2,
+      "score": 16
+    },
+    {
+      "rank": 3,
+      "id": "invented_detail",
+      "name": "Invents a product detail",
+      "count": 2,
+      "cost_weight": 2,
+      "score": 4
+    },
+    {
+      "rank": 4,
+      "id": "unasked_language",
+      "name": "Switches language unasked",
+      "count": 4,
+      "cost_weight": 1,
+      "score": 4
+    },
+    {
+      "rank": 5,
+      "id": "impersonal_opening",
+      "name": "Opens with a cold greeting",
+      "count": 2,
+      "cost_weight": 1,
+      "score": 2
+    }
+  ],
+  "reading_order_blocks": [
+    {
+      "traces": "tr01 to tr10",
+      "new_modes": [
+        {
+          "trace": "tr01",
+          "mode": "unsupported_fact"
+        },
+        {
+          "trace": "tr10",
+          "mode": "impersonal_opening"
+        }
+      ],
+      "modes_so_far": 2
+    },
+    {
+      "traces": "tr11 to tr20",
+      "new_modes": [
+        {
+          "trace": "tr18",
+          "mode": "invented_detail"
+        }
+      ],
+      "modes_so_far": 3
+    },
+    {
+      "traces": "tr21 to tr30",
+      "new_modes": [
+        {
+          "trace": "tr22",
+          "mode": "unasked_language"
+        },
+        {
+          "trace": "tr27",
+          "mode": "false_action_or_promise"
+        }
+      ],
+      "modes_so_far": 5
+    },
+    {
+      "traces": "tr31 to tr40",
+      "new_modes": [],
+      "modes_so_far": 5
+    },
+    {
+      "traces": "tr41 to tr50",
+      "new_modes": [],
+      "modes_so_far": 5
+    },
+    {
+      "traces": "tr51 to tr60",
+      "new_modes": [],
+      "modes_so_far": 5
+    }
+  ],
+  "new_mode_traces": [
+    "tr01",
+    "tr10",
+    "tr18",
+    "tr22",
+    "tr27"
+  ],
+  "saturation_at": 27,
+  "saturation_note": "Reading in id order, new failure modes appeared at tr01, tr10, tr18, tr22, tr27. No new mode appeared after trace tr27 (the next 33 traces, to tr60).",
+  "assignment": {
+    "tr01": "unsupported_fact",
+    "tr02": "no_failure",
+    "tr03": "no_failure",
+    "tr04": "no_failure",
+    "tr05": "no_failure",
+    "tr06": "unsupported_fact",
+    "tr07": "no_failure",
+    "tr08": "unsupported_fact",
+    "tr09": "unsupported_fact",
+    "tr10": "impersonal_opening",
+    "tr11": "unsupported_fact",
+    "tr12": "no_failure",
+    "tr13": "no_failure",
+    "tr14": "no_failure",
+    "tr15": "no_failure",
+    "tr16": "no_failure",
+    "tr17": "no_failure",
+    "tr18": "invented_detail",
+    "tr19": "no_failure",
+    "tr20": "no_failure",
+    "tr21": "no_failure",
+    "tr22": "unasked_language",
+    "tr23": "no_failure",
+    "tr24": "no_failure",
+    "tr25": "no_failure",
+    "tr26": "no_failure",
+    "tr27": "false_action_or_promise",
+    "tr28": "false_action_or_promise",
+    "tr29": "unsupported_fact",
+    "tr30": "no_failure",
+    "tr31": "false_action_or_promise",
+    "tr32": "no_failure",
+    "tr33": "invented_detail",
+    "tr34": "no_failure",
+    "tr35": "unsupported_fact",
+    "tr36": "no_failure",
+    "tr37": "no_failure",
+    "tr38": "no_failure",
+    "tr39": "unsupported_fact",
+    "tr40": "no_failure",
+    "tr41": "no_failure",
+    "tr42": "no_failure",
+    "tr43": "no_failure",
+    "tr44": "no_failure",
+    "tr45": "unsupported_fact",
+    "tr46": "false_action_or_promise",
+    "tr47": "no_failure",
+    "tr48": "unasked_language",
+    "tr49": "impersonal_opening",
+    "tr50": "false_action_or_promise",
+    "tr51": "false_action_or_promise",
+    "tr52": "unsupported_fact",
+    "tr53": "no_failure",
+    "tr54": "no_failure",
+    "tr55": "unasked_language",
+    "tr56": "no_failure",
+    "tr57": "false_action_or_promise",
+    "tr58": "unasked_language",
+    "tr59": "false_action_or_promise",
+    "tr60": "unsupported_fact"
+  }
+}

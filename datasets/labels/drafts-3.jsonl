@@ -1,0 +1,85 @@
+{"id": "t252-B2", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t274-A1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t274-B1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t274-B2", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t279-A1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t279-B1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t279-B2", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t281-A1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t281-B1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t281-B2", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t284-A1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t284-B1", "verdict": "pass", "reason": "Says 5 working days 'of your report', a start point the policy does not give.", "confidence": "low"}
+{"id": "t284-B2", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t286-A1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t286-B1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t286-B2", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t293-A1", "verdict": "fail", "reason": "Food safety case where the child drank it: replies 'You'll be refunded for the milk', deciding the refund instead of leaving it to the person.", "confidence": "high"}
+{"id": "t293-B1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t293-B2", "verdict": "pass", "reason": "Food safety routed to a person, but 'we'll sort out your refund' leans toward promising it.", "confidence": "low"}
+{"id": "t294-A1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t294-B1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t294-B2", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t306-A1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t306-B1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t306-B2", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t308-A1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t308-B1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t308-B2", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t312-A1", "verdict": "pass", "reason": "Routes to a person today; asserts 'within the 7-day refund window' without knowing the date.", "confidence": "low"}
+{"id": "t312-B1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t312-B2", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t314-A1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t314-B1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t314-B2", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t328-A1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t328-B1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t328-B2", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t329-A1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t329-B1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t329-B2", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t337-A1", "verdict": "fail", "reason": "Child has stomach pain (food safety): replies 'you qualify for a full refund', deciding the refund though it goes to a person.", "confidence": "high"}
+{"id": "t337-B1", "verdict": "fail", "reason": "Child unwell (food safety): replies 'You'll receive a full refund for the chicken', deciding the refund.", "confidence": "high"}
+{"id": "t337-B2", "verdict": "fail", "reason": "Child unwell (food safety): replies 'You'll get a full refund for the chicken', deciding the refund.", "confidence": "high"}
+{"id": "t341-A1", "verdict": "pass", "reason": "Fee refund correct and photo asked, but peas thawed (possible food safety) and only a same-day review is mentioned.", "confidence": "low"}
+{"id": "t341-B1", "verdict": "pass", "reason": "Photo asked and fee rule correct, but thawed food is not routed to a person.", "confidence": "low"}
+{"id": "t341-B2", "verdict": "pass", "reason": "Photo asked and fee rule correct, but thawed food is not routed to a person.", "confidence": "low"}
+{"id": "t345-A1", "verdict": "pass", "reason": "Says 'I can only offer a refund, not a replacement', which the policy does not state.", "confidence": "low"}
+{"id": "t345-B1", "verdict": "pass", "reason": "Says 'We only offer refunds', which the policy does not state.", "confidence": "low"}
+{"id": "t345-B2", "verdict": "pass", "reason": "Says replacements cannot be promised; policy silent on replacements.", "confidence": "low"}
+{"id": "t351-A1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t351-B1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t351-B2", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t352-A1", "verdict": "pass", "reason": "Wrong-size item is not a case the policy covers; refund promised after photo within 7 days.", "confidence": "low"}
+{"id": "t352-B1", "verdict": "pass", "reason": "Wrong-size item is not a case the policy covers; 'you're covered for a refund'.", "confidence": "low"}
+{"id": "t352-B2", "verdict": "pass", "reason": "Wrong-size item is not a case the policy covers; 'you're covered for a refund'.", "confidence": "low"}
+{"id": "t353-A1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t353-B1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t353-B2", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t355-A1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t355-B1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t355-B2", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t360-A1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t360-B1", "verdict": "pass", "reason": "Food safety routed to a person; 'you'll be refunded' is a soft decision and photo is only 'have ready'.", "confidence": "low"}
+{"id": "t360-B2", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t363-A1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t363-B1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t363-B2", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t367-A1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t367-B1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t367-B2", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t374-A1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t374-B1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t374-B2", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t384-A1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t384-B1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t384-B2", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t386-A1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t386-B1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t386-B2", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t390-A1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t390-B1", "verdict": "pass", "reason": "Routes to a person today; says the team will 'process the refund for all three items' without asking for photos (customer says already sent).", "confidence": "low"}
+{"id": "t390-B2", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t391-A1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t391-B1", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}
+{"id": "t391-B2", "verdict": "pass", "reason": "No refund fact contradicts the policy and no forbidden promise or missing step.", "confidence": "high"}

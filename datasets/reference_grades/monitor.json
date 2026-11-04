@@ -1,0 +1,91 @@
+{
+ "break_day": 5,
+ "break_slice": "language=mixed",
+ "by_day": {
+  "1": {
+   "hi": 0.9735,
+   "lo": 0.9007,
+   "n": 151,
+   "rate": 0.9404
+  },
+  "2": {
+   "hi": 0.9935,
+   "lo": 0.9351,
+   "n": 154,
+   "rate": 0.9675
+  },
+  "3": {
+   "hi": 0.9864,
+   "lo": 0.9116,
+   "n": 147,
+   "rate": 0.9524
+  },
+  "4": {
+   "hi": 0.9722,
+   "lo": 0.8958,
+   "n": 144,
+   "rate": 0.9375
+  },
+  "5": {
+   "hi": 0.9122,
+   "lo": 0.7973,
+   "n": 148,
+   "rate": 0.8581
+  },
+  "6": {
+   "hi": 0.9478,
+   "lo": 0.8507,
+   "n": 134,
+   "rate": 0.903
+  },
+  "7": {
+   "hi": 0.8933,
+   "lo": 0.78,
+   "n": 150,
+   "rate": 0.84
+  }
+ },
+ "flagged_language": [
+  [
+   5,
+   "mixed"
+  ],
+  [
+   6,
+   "mixed"
+  ],
+  [
+   7,
+   "mixed"
+  ]
+ ],
+ "flagged_length": [
+  [
+   5,
+   "long"
+  ],
+  [
+   5,
+   "normal"
+  ],
+  [
+   7,
+   "long"
+  ],
+  [
+   7,
+   "normal"
+  ]
+ ],
+ "flagged_tone": [
+  [
+   6,
+   "angry"
+  ],
+  [
+   7,
+   "angry"
+  ]
+ ],
+ "note": "the shipped answer for challenge 10 part 1, made by the reference solution of monitor.py"
+}

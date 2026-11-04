@@ -1,0 +1,1333 @@
+[
+ {
+  "customer": "Kofi",
+  "delivered_on": "2026-11-18",
+  "delivery_fee": 3.99,
+  "hours_late": 0.0,
+  "id": "FM-104201",
+  "items": [
+   {
+    "name": "chicken thighs 1kg",
+    "price": 8.99,
+    "qty": 1
+   },
+   {
+    "name": "sourdough loaf",
+    "price": 4.29,
+    "qty": 1
+   },
+   {
+    "name": "oat milk 1L",
+    "price": 2.99,
+    "qty": 1
+   },
+   {
+    "name": "whole milk 2L",
+    "price": 3.49,
+    "qty": 1
+   },
+   {
+    "name": "free-range eggs 12",
+    "price": 4.99,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [],
+  "total": 28.74
+ },
+ {
+  "customer": "Kofi",
+  "delivered_on": "2026-11-18",
+  "delivery_fee": 3.99,
+  "hours_late": 0.0,
+  "id": "FM-104202",
+  "items": [
+   {
+    "name": "cheddar 400g",
+    "price": 6.49,
+    "qty": 1
+   },
+   {
+    "name": "avocados 4",
+    "price": 4.79,
+    "qty": 1
+   },
+   {
+    "name": "whole milk 2L",
+    "price": 3.49,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [],
+  "total": 18.76
+ },
+ {
+  "customer": "Jonas",
+  "delivered_on": "2026-11-18",
+  "delivery_fee": 3.99,
+  "hours_late": 0.0,
+  "id": "FM-104203",
+  "items": [
+   {
+    "name": "free-range eggs 12",
+    "price": 4.99,
+    "qty": 1
+   },
+   {
+    "name": "frozen peas 1kg",
+    "price": 2.79,
+    "qty": 1
+   },
+   {
+    "name": "sourdough loaf",
+    "price": 4.29,
+    "qty": 1
+   },
+   {
+    "name": "ground coffee 500g",
+    "price": 9.99,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [],
+  "total": 26.05
+ },
+ {
+  "customer": "Sofia",
+  "delivered_on": "2026-11-18",
+  "delivery_fee": 3.99,
+  "hours_late": 0.0,
+  "id": "FM-104204",
+  "items": [
+   {
+    "name": "strawberries 400g",
+    "price": 5.49,
+    "qty": 1
+   },
+   {
+    "name": "salmon fillets 2x",
+    "price": 11.49,
+    "qty": 1
+   },
+   {
+    "name": "sourdough loaf",
+    "price": 4.29,
+    "qty": 1
+   },
+   {
+    "name": "whole milk 2L",
+    "price": 3.49,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [],
+  "total": 28.75
+ },
+ {
+  "customer": "Sofia",
+  "delivered_on": "2026-11-18",
+  "delivery_fee": 3.99,
+  "hours_late": 0.0,
+  "id": "FM-104205",
+  "items": [
+   {
+    "name": "greek yogurt 1kg",
+    "price": 5.99,
+    "qty": 1
+   },
+   {
+    "name": "oat milk 1L",
+    "price": 2.99,
+    "qty": 1
+   },
+   {
+    "name": "dark chocolate 200g",
+    "price": 3.99,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [],
+  "total": 16.96
+ },
+ {
+  "customer": "Amira",
+  "delivered_on": "2026-11-18",
+  "delivery_fee": 3.99,
+  "hours_late": 0.0,
+  "id": "FM-104206",
+  "items": [
+   {
+    "name": "spinach 250g",
+    "price": 2.49,
+    "qty": 1
+   },
+   {
+    "name": "whole milk 2L",
+    "price": 3.49,
+    "qty": 1
+   },
+   {
+    "name": "basmati rice 5kg",
+    "price": 12.99,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [],
+  "total": 22.96
+ },
+ {
+  "customer": "Jonas",
+  "delivered_on": "2026-11-18",
+  "delivery_fee": 3.99,
+  "hours_late": 0.0,
+  "id": "FM-104207",
+  "items": [
+   {
+    "name": "avocados 4",
+    "price": 4.79,
+    "qty": 1
+   },
+   {
+    "name": "sourdough loaf",
+    "price": 4.29,
+    "qty": 1
+   },
+   {
+    "name": "strawberries 400g",
+    "price": 5.49,
+    "qty": 1
+   },
+   {
+    "name": "salmon fillets 2x",
+    "price": 11.49,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [],
+  "total": 30.05
+ },
+ {
+  "customer": "Tomas",
+  "delivered_on": "2026-11-18",
+  "delivery_fee": 3.99,
+  "hours_late": 0.0,
+  "id": "FM-104208",
+  "items": [
+   {
+    "name": "baby formula 800g",
+    "price": 24.99,
+    "qty": 1
+   },
+   {
+    "name": "free-range eggs 12",
+    "price": 4.99,
+    "qty": 1
+   },
+   {
+    "name": "avocados 4",
+    "price": 4.79,
+    "qty": 1
+   },
+   {
+    "name": "ground coffee 500g",
+    "price": 9.99,
+    "qty": 1
+   },
+   {
+    "name": "oat milk 1L",
+    "price": 2.99,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [],
+  "total": 51.74
+ },
+ {
+  "customer": "Amira",
+  "delivered_on": "2026-11-17",
+  "delivery_fee": 3.99,
+  "hours_late": 0.0,
+  "id": "FM-104209",
+  "items": [
+   {
+    "name": "basmati rice 5kg",
+    "price": 12.99,
+    "qty": 1
+   },
+   {
+    "name": "salmon fillets 2x",
+    "price": 11.49,
+    "qty": 1
+   },
+   {
+    "name": "cheddar 400g",
+    "price": 6.49,
+    "qty": 1
+   },
+   {
+    "name": "free-range eggs 12",
+    "price": 4.99,
+    "qty": 1
+   },
+   {
+    "name": "avocados 4",
+    "price": 4.79,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [],
+  "total": 44.74
+ },
+ {
+  "customer": "Marcus",
+  "delivered_on": "2026-11-17",
+  "delivery_fee": 3.99,
+  "hours_late": 0.0,
+  "id": "FM-104210",
+  "items": [
+   {
+    "name": "frozen peas 1kg",
+    "price": 2.79,
+    "qty": 1
+   },
+   {
+    "name": "oat milk 1L",
+    "price": 2.99,
+    "qty": 1
+   },
+   {
+    "name": "salmon fillets 2x",
+    "price": 11.49,
+    "qty": 1
+   },
+   {
+    "name": "sourdough loaf",
+    "price": 4.29,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [],
+  "total": 25.55
+ },
+ {
+  "customer": "Jonas",
+  "delivered_on": "2026-11-17",
+  "delivery_fee": 3.99,
+  "hours_late": 0.0,
+  "id": "FM-104211",
+  "items": [
+   {
+    "name": "dark chocolate 200g",
+    "price": 3.99,
+    "qty": 1
+   },
+   {
+    "name": "baby formula 800g",
+    "price": 24.99,
+    "qty": 1
+   },
+   {
+    "name": "chicken thighs 1kg",
+    "price": 8.99,
+    "qty": 1
+   },
+   {
+    "name": "basmati rice 5kg",
+    "price": 12.99,
+    "qty": 1
+   },
+   {
+    "name": "strawberries 400g",
+    "price": 5.49,
+    "qty": 1
+   },
+   {
+    "name": "spinach 250g",
+    "price": 2.49,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [],
+  "total": 62.93
+ },
+ {
+  "customer": "Leila",
+  "delivered_on": "2026-11-17",
+  "delivery_fee": 3.99,
+  "hours_late": 0.0,
+  "id": "FM-104212",
+  "items": [
+   {
+    "name": "frozen peas 1kg",
+    "price": 2.79,
+    "qty": 1
+   },
+   {
+    "name": "dark chocolate 200g",
+    "price": 3.99,
+    "qty": 1
+   },
+   {
+    "name": "baby formula 800g",
+    "price": 24.99,
+    "qty": 1
+   },
+   {
+    "name": "cheddar 400g",
+    "price": 6.49,
+    "qty": 1
+   },
+   {
+    "name": "greek yogurt 1kg",
+    "price": 5.99,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [],
+  "total": 48.24
+ },
+ {
+  "customer": "Priya",
+  "delivered_on": "2026-11-17",
+  "delivery_fee": 3.99,
+  "hours_late": 0.0,
+  "id": "FM-104213",
+  "items": [
+   {
+    "name": "basmati rice 5kg",
+    "price": 12.99,
+    "qty": 1
+   },
+   {
+    "name": "salmon fillets 2x",
+    "price": 11.49,
+    "qty": 1
+   },
+   {
+    "name": "sourdough loaf",
+    "price": 4.29,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [],
+  "total": 32.76
+ },
+ {
+  "customer": "Hamza",
+  "delivered_on": "2026-11-17",
+  "delivery_fee": 3.99,
+  "hours_late": 0.0,
+  "id": "FM-104214",
+  "items": [
+   {
+    "name": "chicken thighs 1kg",
+    "price": 8.99,
+    "qty": 1
+   },
+   {
+    "name": "dark chocolate 200g",
+    "price": 3.99,
+    "qty": 1
+   },
+   {
+    "name": "greek yogurt 1kg",
+    "price": 5.99,
+    "qty": 1
+   },
+   {
+    "name": "sourdough loaf",
+    "price": 4.29,
+    "qty": 1
+   },
+   {
+    "name": "whole milk 2L",
+    "price": 3.49,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [],
+  "total": 30.74
+ },
+ {
+  "customer": "Marcus",
+  "delivered_on": "2026-11-06",
+  "delivery_fee": 3.99,
+  "hours_late": 0.0,
+  "id": "FM-104215",
+  "items": [
+   {
+    "name": "oat milk 1L",
+    "price": 2.99,
+    "qty": 1
+   },
+   {
+    "name": "baby formula 800g",
+    "price": 24.99,
+    "qty": 1
+   },
+   {
+    "name": "cheddar 400g",
+    "price": 6.49,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [],
+  "total": 38.46
+ },
+ {
+  "customer": "Ines",
+  "delivered_on": "2026-11-06",
+  "delivery_fee": 3.99,
+  "hours_late": 0.0,
+  "id": "FM-104216",
+  "items": [
+   {
+    "name": "dark chocolate 200g",
+    "price": 3.99,
+    "qty": 1
+   },
+   {
+    "name": "free-range eggs 12",
+    "price": 4.99,
+    "qty": 1
+   },
+   {
+    "name": "ground coffee 500g",
+    "price": 9.99,
+    "qty": 1
+   },
+   {
+    "name": "frozen peas 1kg",
+    "price": 2.79,
+    "qty": 1
+   },
+   {
+    "name": "chicken thighs 1kg",
+    "price": 8.99,
+    "qty": 1
+   },
+   {
+    "name": "greek yogurt 1kg",
+    "price": 5.99,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [],
+  "total": 40.73
+ },
+ {
+  "customer": "Leila",
+  "delivered_on": "2026-11-06",
+  "delivery_fee": 3.99,
+  "hours_late": 0.0,
+  "id": "FM-104217",
+  "items": [
+   {
+    "name": "free-range eggs 12",
+    "price": 4.99,
+    "qty": 1
+   },
+   {
+    "name": "cheddar 400g",
+    "price": 6.49,
+    "qty": 1
+   },
+   {
+    "name": "dark chocolate 200g",
+    "price": 3.99,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [],
+  "total": 19.46
+ },
+ {
+  "customer": "Elena",
+  "delivered_on": "2026-11-06",
+  "delivery_fee": 3.99,
+  "hours_late": 0.0,
+  "id": "FM-104218",
+  "items": [
+   {
+    "name": "avocados 4",
+    "price": 4.79,
+    "qty": 1
+   },
+   {
+    "name": "cheddar 400g",
+    "price": 6.49,
+    "qty": 1
+   },
+   {
+    "name": "sourdough loaf",
+    "price": 4.29,
+    "qty": 1
+   },
+   {
+    "name": "oat milk 1L",
+    "price": 2.99,
+    "qty": 1
+   },
+   {
+    "name": "baby formula 800g",
+    "price": 24.99,
+    "qty": 1
+   },
+   {
+    "name": "whole milk 2L",
+    "price": 3.49,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [],
+  "total": 51.03
+ },
+ {
+  "customer": "Tomas",
+  "delivered_on": "2026-11-19",
+  "delivery_fee": 3.99,
+  "hours_late": 3.5,
+  "id": "FM-104219",
+  "items": [
+   {
+    "name": "baby formula 800g",
+    "price": 24.99,
+    "qty": 1
+   },
+   {
+    "name": "avocados 4",
+    "price": 4.79,
+    "qty": 1
+   },
+   {
+    "name": "free-range eggs 12",
+    "price": 4.99,
+    "qty": 1
+   },
+   {
+    "name": "greek yogurt 1kg",
+    "price": 5.99,
+    "qty": 1
+   },
+   {
+    "name": "whole milk 2L",
+    "price": 3.49,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [],
+  "total": 48.24
+ },
+ {
+  "customer": "Elena",
+  "delivered_on": "2026-11-19",
+  "delivery_fee": 3.99,
+  "hours_late": 3.5,
+  "id": "FM-104220",
+  "items": [
+   {
+    "name": "chicken thighs 1kg",
+    "price": 8.99,
+    "qty": 1
+   },
+   {
+    "name": "cheddar 400g",
+    "price": 6.49,
+    "qty": 1
+   },
+   {
+    "name": "basmati rice 5kg",
+    "price": 12.99,
+    "qty": 1
+   },
+   {
+    "name": "sourdough loaf",
+    "price": 4.29,
+    "qty": 1
+   },
+   {
+    "name": "spinach 250g",
+    "price": 2.49,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [],
+  "total": 39.24
+ },
+ {
+  "customer": "Kofi",
+  "delivered_on": "2026-11-19",
+  "delivery_fee": 3.99,
+  "hours_late": 3.5,
+  "id": "FM-104221",
+  "items": [
+   {
+    "name": "baby formula 800g",
+    "price": 24.99,
+    "qty": 1
+   },
+   {
+    "name": "greek yogurt 1kg",
+    "price": 5.99,
+    "qty": 1
+   },
+   {
+    "name": "sourdough loaf",
+    "price": 4.29,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [],
+  "total": 39.26
+ },
+ {
+  "customer": "Ines",
+  "delivered_on": "2026-11-19",
+  "delivery_fee": 3.99,
+  "hours_late": 3.5,
+  "id": "FM-104222",
+  "items": [
+   {
+    "name": "chicken thighs 1kg",
+    "price": 8.99,
+    "qty": 1
+   },
+   {
+    "name": "ground coffee 500g",
+    "price": 9.99,
+    "qty": 1
+   },
+   {
+    "name": "sourdough loaf",
+    "price": 4.29,
+    "qty": 1
+   },
+   {
+    "name": "salmon fillets 2x",
+    "price": 11.49,
+    "qty": 1
+   },
+   {
+    "name": "frozen peas 1kg",
+    "price": 2.79,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [],
+  "total": 41.54
+ },
+ {
+  "customer": "Priya",
+  "delivered_on": "2026-11-19",
+  "delivery_fee": 3.99,
+  "hours_late": 3.5,
+  "id": "FM-104223",
+  "items": [
+   {
+    "name": "cheddar 400g",
+    "price": 6.49,
+    "qty": 1
+   },
+   {
+    "name": "oat milk 1L",
+    "price": 2.99,
+    "qty": 1
+   },
+   {
+    "name": "sourdough loaf",
+    "price": 4.29,
+    "qty": 1
+   },
+   {
+    "name": "basmati rice 5kg",
+    "price": 12.99,
+    "qty": 1
+   },
+   {
+    "name": "strawberries 400g",
+    "price": 5.49,
+    "qty": 1
+   },
+   {
+    "name": "free-range eggs 12",
+    "price": 4.99,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [],
+  "total": 41.23
+ },
+ {
+  "customer": "Elena",
+  "delivered_on": "2026-11-19",
+  "delivery_fee": 3.99,
+  "hours_late": 1.0,
+  "id": "FM-104224",
+  "items": [
+   {
+    "name": "greek yogurt 1kg",
+    "price": 5.99,
+    "qty": 1
+   },
+   {
+    "name": "oat milk 1L",
+    "price": 2.99,
+    "qty": 1
+   },
+   {
+    "name": "basmati rice 5kg",
+    "price": 12.99,
+    "qty": 1
+   },
+   {
+    "name": "whole milk 2L",
+    "price": 3.49,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [],
+  "total": 29.45
+ },
+ {
+  "customer": "Noor",
+  "delivered_on": "2026-11-19",
+  "delivery_fee": 3.99,
+  "hours_late": 1.0,
+  "id": "FM-104225",
+  "items": [
+   {
+    "name": "salmon fillets 2x",
+    "price": 11.49,
+    "qty": 1
+   },
+   {
+    "name": "chicken thighs 1kg",
+    "price": 8.99,
+    "qty": 1
+   },
+   {
+    "name": "whole milk 2L",
+    "price": 3.49,
+    "qty": 1
+   },
+   {
+    "name": "strawberries 400g",
+    "price": 5.49,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [],
+  "total": 33.45
+ },
+ {
+  "customer": "Hamza",
+  "delivered_on": "2026-11-19",
+  "delivery_fee": 3.99,
+  "hours_late": 1.0,
+  "id": "FM-104226",
+  "items": [
+   {
+    "name": "oat milk 1L",
+    "price": 2.99,
+    "qty": 1
+   },
+   {
+    "name": "strawberries 400g",
+    "price": 5.49,
+    "qty": 1
+   },
+   {
+    "name": "cheddar 400g",
+    "price": 6.49,
+    "qty": 1
+   },
+   {
+    "name": "salmon fillets 2x",
+    "price": 11.49,
+    "qty": 1
+   },
+   {
+    "name": "avocados 4",
+    "price": 4.79,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [],
+  "total": 35.24
+ },
+ {
+  "customer": "Hamza",
+  "delivered_on": "2026-11-19",
+  "delivery_fee": 3.99,
+  "hours_late": 0.0,
+  "id": "FM-104227",
+  "items": [
+   {
+    "name": "dark chocolate 200g",
+    "price": 3.99,
+    "qty": 1
+   },
+   {
+    "name": "frozen peas 1kg",
+    "price": 2.79,
+    "qty": 1
+   },
+   {
+    "name": "ground coffee 500g",
+    "price": 9.99,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [],
+  "total": 20.76
+ },
+ {
+  "customer": "Noor",
+  "delivered_on": "2026-11-19",
+  "delivery_fee": 3.99,
+  "hours_late": 0.0,
+  "id": "FM-104228",
+  "items": [
+   {
+    "name": "spinach 250g",
+    "price": 2.49,
+    "qty": 1
+   },
+   {
+    "name": "sourdough loaf",
+    "price": 4.29,
+    "qty": 1
+   },
+   {
+    "name": "dark chocolate 200g",
+    "price": 3.99,
+    "qty": 1
+   },
+   {
+    "name": "free-range eggs 12",
+    "price": 4.99,
+    "qty": 1
+   },
+   {
+    "name": "greek yogurt 1kg",
+    "price": 5.99,
+    "qty": 1
+   },
+   {
+    "name": "oat milk 1L",
+    "price": 2.99,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [],
+  "total": 28.73
+ },
+ {
+  "customer": "Elena",
+  "delivered_on": "2026-11-19",
+  "delivery_fee": 3.99,
+  "hours_late": 0.0,
+  "id": "FM-104229",
+  "items": [
+   {
+    "name": "sourdough loaf",
+    "price": 4.29,
+    "qty": 1
+   },
+   {
+    "name": "free-range eggs 12",
+    "price": 4.99,
+    "qty": 1
+   },
+   {
+    "name": "basmati rice 5kg",
+    "price": 12.99,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [],
+  "total": 26.26
+ },
+ {
+  "customer": "Jonas",
+  "delivered_on": "2026-11-19",
+  "delivery_fee": 3.99,
+  "hours_late": 0.0,
+  "id": "FM-104230",
+  "items": [
+   {
+    "name": "basmati rice 5kg",
+    "price": 12.99,
+    "qty": 1
+   },
+   {
+    "name": "baby formula 800g",
+    "price": 24.99,
+    "qty": 1
+   },
+   {
+    "name": "avocados 4",
+    "price": 4.79,
+    "qty": 1
+   },
+   {
+    "name": "whole milk 2L",
+    "price": 3.49,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [],
+  "total": 50.25
+ },
+ {
+  "customer": "Marcus",
+  "delivered_on": "2026-11-18",
+  "delivery_fee": 3.99,
+  "hours_late": 0.0,
+  "id": "FM-104231",
+  "items": [
+   {
+    "name": "chicken thighs 1kg",
+    "price": 8.99,
+    "qty": 1
+   },
+   {
+    "name": "salmon fillets 2x",
+    "price": 11.49,
+    "qty": 1
+   },
+   {
+    "name": "free-range eggs 12",
+    "price": 4.99,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [],
+  "total": 29.46
+ },
+ {
+  "customer": "Sofia",
+  "delivered_on": "2026-11-18",
+  "delivery_fee": 3.99,
+  "hours_late": 0.0,
+  "id": "FM-104232",
+  "items": [
+   {
+    "name": "strawberries 400g",
+    "price": 5.49,
+    "qty": 1
+   },
+   {
+    "name": "ground coffee 500g",
+    "price": 9.99,
+    "qty": 1
+   },
+   {
+    "name": "basmati rice 5kg",
+    "price": 12.99,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [],
+  "total": 32.46
+ },
+ {
+  "customer": "Elena",
+  "delivered_on": "2026-11-18",
+  "delivery_fee": 3.99,
+  "hours_late": 0.0,
+  "id": "FM-104233",
+  "items": [
+   {
+    "name": "chicken thighs 1kg",
+    "price": 8.99,
+    "qty": 1
+   },
+   {
+    "name": "oat milk 1L",
+    "price": 2.99,
+    "qty": 1
+   },
+   {
+    "name": "frozen peas 1kg",
+    "price": 2.79,
+    "qty": 1
+   },
+   {
+    "name": "baby formula 800g",
+    "price": 24.99,
+    "qty": 1
+   },
+   {
+    "name": "avocados 4",
+    "price": 4.79,
+    "qty": 1
+   },
+   {
+    "name": "spinach 250g",
+    "price": 2.49,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [],
+  "total": 51.03
+ },
+ {
+  "customer": "Elena",
+  "delivered_on": "2026-11-18",
+  "delivery_fee": 3.99,
+  "hours_late": 0.0,
+  "id": "FM-104234",
+  "items": [
+   {
+    "name": "basmati rice 5kg",
+    "price": 12.99,
+    "qty": 1
+   },
+   {
+    "name": "ground coffee 500g",
+    "price": 9.99,
+    "qty": 1
+   },
+   {
+    "name": "greek yogurt 1kg",
+    "price": 5.99,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [],
+  "total": 32.96
+ },
+ {
+  "customer": "Ines",
+  "delivered_on": "2026-11-18",
+  "delivery_fee": 3.99,
+  "hours_late": 0.0,
+  "id": "FM-104235",
+  "items": [
+   {
+    "name": "frozen peas 1kg",
+    "price": 2.79,
+    "qty": 1
+   },
+   {
+    "name": "chicken thighs 1kg",
+    "price": 8.99,
+    "qty": 1
+   },
+   {
+    "name": "free-range eggs 12",
+    "price": 4.99,
+    "qty": 1
+   },
+   {
+    "name": "strawberries 400g",
+    "price": 5.49,
+    "qty": 1
+   },
+   {
+    "name": "ground coffee 500g",
+    "price": 9.99,
+    "qty": 1
+   },
+   {
+    "name": "baby formula 800g",
+    "price": 24.99,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [],
+  "total": 61.23
+ },
+ {
+  "customer": "Amira",
+  "delivered_on": "2026-11-18",
+  "delivery_fee": 3.99,
+  "hours_late": 0.0,
+  "id": "FM-104236",
+  "items": [
+   {
+    "name": "frozen peas 1kg",
+    "price": 2.79,
+    "qty": 1
+   },
+   {
+    "name": "ground coffee 500g",
+    "price": 9.99,
+    "qty": 1
+   },
+   {
+    "name": "cheddar 400g",
+    "price": 6.49,
+    "qty": 1
+   },
+   {
+    "name": "strawberries 400g",
+    "price": 5.49,
+    "qty": 1
+   },
+   {
+    "name": "salmon fillets 2x",
+    "price": 11.49,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [],
+  "total": 40.24
+ },
+ {
+  "customer": "Amira",
+  "delivered_on": "2026-11-18",
+  "delivery_fee": 3.99,
+  "hours_late": 0.0,
+  "id": "FM-104237",
+  "items": [
+   {
+    "name": "cheddar 400g",
+    "price": 6.49,
+    "qty": 1
+   },
+   {
+    "name": "strawberries 400g",
+    "price": 5.49,
+    "qty": 1
+   },
+   {
+    "name": "frozen peas 1kg",
+    "price": 2.79,
+    "qty": 1
+   },
+   {
+    "name": "salmon fillets 2x",
+    "price": 11.49,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [],
+  "total": 30.25
+ },
+ {
+  "customer": "Marcus",
+  "delivered_on": "2026-11-18",
+  "delivery_fee": 3.99,
+  "hours_late": 0.0,
+  "id": "FM-104238",
+  "items": [
+   {
+    "name": "strawberries 400g",
+    "price": 5.49,
+    "qty": 1
+   },
+   {
+    "name": "cheddar 400g",
+    "price": 6.49,
+    "qty": 1
+   },
+   {
+    "name": "ground coffee 500g",
+    "price": 9.99,
+    "qty": 1
+   },
+   {
+    "name": "chicken thighs 1kg",
+    "price": 8.99,
+    "qty": 1
+   },
+   {
+    "name": "salmon fillets 2x",
+    "price": 11.49,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [
+   {
+    "amount": 5.49,
+    "on": "2026-11-18",
+    "order_id": "FM-104238",
+    "reason": "missing strawberries 400g"
+   }
+  ],
+  "total": 46.44
+ },
+ {
+  "customer": "Kofi",
+  "delivered_on": "2026-11-18",
+  "delivery_fee": 3.99,
+  "hours_late": 0.0,
+  "id": "FM-104239",
+  "items": [
+   {
+    "name": "cheddar 400g",
+    "price": 6.49,
+    "qty": 1
+   },
+   {
+    "name": "spinach 250g",
+    "price": 2.49,
+    "qty": 1
+   },
+   {
+    "name": "basmati rice 5kg",
+    "price": 12.99,
+    "qty": 1
+   },
+   {
+    "name": "salmon fillets 2x",
+    "price": 11.49,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [
+   {
+    "amount": 6.49,
+    "on": "2026-11-18",
+    "order_id": "FM-104239",
+    "reason": "missing cheddar 400g"
+   }
+  ],
+  "total": 37.45
+ },
+ {
+  "customer": "Tomas",
+  "delivered_on": "2026-11-18",
+  "delivery_fee": 3.99,
+  "hours_late": 0.0,
+  "id": "FM-104240",
+  "items": [
+   {
+    "name": "greek yogurt 1kg",
+    "price": 5.99,
+    "qty": 1
+   },
+   {
+    "name": "avocados 4",
+    "price": 4.79,
+    "qty": 1
+   },
+   {
+    "name": "spinach 250g",
+    "price": 2.49,
+    "qty": 1
+   },
+   {
+    "name": "ground coffee 500g",
+    "price": 9.99,
+    "qty": 1
+   },
+   {
+    "name": "basmati rice 5kg",
+    "price": 12.99,
+    "qty": 1
+   }
+  ],
+  "prior_refunds": [
+   {
+    "amount": 5.99,
+    "on": "2026-11-18",
+    "order_id": "FM-104240",
+    "reason": "missing greek yogurt 1kg"
+   }
+  ],
+  "total": 40.24
+ }
+]

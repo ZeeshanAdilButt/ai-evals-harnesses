@@ -1,0 +1,7 @@
+# Challenge 11, part 1: the release suite configuration. Review a model upgrade: A (current) against the candidate (cheaper model, shortened prompts),
+# on canonical dataset v2 (200 tickets for triage and reply, five trials) and the 40 refund tasks (five trials). Replay only: no new calls.
+suite = "release"
+baseline_variant = "A"
+candidate_variant = "candidate"
+
+# YOUR TURN: fill in the tables below with YOUR work from earlier chapters

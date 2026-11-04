@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ai-evals-harnesses"
+version = "0.1.0"
+description = "FreshMarket support assistant, evalkit and the challenges of the AI Evals and Harnesses course (replay only)"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pytest==9.2.0",
+    "pydantic==2.14.2",
+    "PyYAML==6.0.2",
+]
+
+[project.optional-dependencies]
+# Chapter 6.9 only: map your runner onto Inspect by reading its documentation. Not needed for any core step.
+adopt = ["inspect-ai==0.3.287"]
+# The author's recording tools (tools/record*.py). Replay never needs them.
+record = ["anthropic==2.4.0"]
+
+[tool.setuptools]
+packages = ["evalkit", "evalkit.graders", "product", "product.agent", "judges"]
+
+[tool.setuptools.package-data]
+product = ["*.md", "*.toml", "prompts/*.md"]

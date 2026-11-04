@@ -1,0 +1,12 @@
+# The ship gate's numbers. Floors and budgets are the author's; margins are written by `gate --init-margin`.
+
+[floor]
+triage = 0.85
+reply = 0.85
+agent = 0.80
+
+[budget]
+cost_per_1k = 2.5
+p95_ms = 4500
+
+[margin]

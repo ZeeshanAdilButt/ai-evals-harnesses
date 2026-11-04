@@ -1,0 +1,8 @@
+name = "agent40"
+description = "The 40 refund tasks, five trials. The tool loop and its graders arrive in chapter 8."
+
+[[part]]
+feature = "agent"
+dataset = "datasets/agent_tasks.jsonl"
+trials = 5
+graders = ["agent_state", "agent_trajectory"]

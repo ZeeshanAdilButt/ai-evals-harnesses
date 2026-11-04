@@ -1,0 +1,77 @@
+{"id": "t001-O1", "verdict": "fail", "reason": "States outdated policy: \"Since an item was missing from your delivery, we can refund it as FreshMarket store credit, and you won't need to return anything\".", "confidence": "high"}
+{"id": "t001-O2", "verdict": "fail", "reason": "States outdated policy: \"Since the item never arrived, we can refund it as FreshMarket store credit\".", "confidence": "high"}
+{"id": "t004-O1", "verdict": "fail", "reason": "States outdated policy: \"Please also keep in mind that missing items are refunded as FreshMarket store credit rather than to your original payment method, so it's\".", "confidence": "high"}
+{"id": "t004-O2", "verdict": "fail", "reason": "States outdated policy: \"If it was a missing item, that refund comes as FreshMarket store credit rather than back to your card, so it's worth checking your account\".", "confidence": "high"}
+{"id": "t005-O1", "verdict": "fail", "reason": "States outdated policy: \"Missing items are refunded as FreshMarket store credit, and since you're within 14 days of delivery, other item issues can be looked at too\".", "confidence": "high"}
+{"id": "t005-O2", "verdict": "fail", "reason": "States outdated policy: \"Items can be refunded within 14 days of delivery\".", "confidence": "high"}
+{"id": "t010-O1", "verdict": "fail", "reason": "States outdated policy: \"Your order is well inside our 14-day refund window, so you're covered on timing\".", "confidence": "high"}
+{"id": "t010-O2", "verdict": "fail", "reason": "States outdated policy: \"You're well within our 14-day refund window, so we can refund them\".", "confidence": "high"}
+{"id": "t016-O1", "verdict": "fail", "reason": "States outdated policy: \"Since order FM-193350 is within our 14-day refund window from delivery, you can have a refund for the rice\".", "confidence": "high"}
+{"id": "t016-O2", "verdict": "fail", "reason": "States outdated policy: \"Your order is within our 14-day refund window from delivery, so you can have a refund for that item\".", "confidence": "high"}
+{"id": "t017-O1", "verdict": "fail", "reason": "States outdated policy: \"Because it's within our 14-day refund window from delivery, you're eligible for a refund on that item\".", "confidence": "high"}
+{"id": "t017-O2", "verdict": "fail", "reason": "States outdated policy: \"Since you're within 14 days of delivery, you can have a refund for the bread\".", "confidence": "high"}
+{"id": "t020-O1", "verdict": "fail", "reason": "States outdated policy: \"Refunds arrive within 2 working days once they're approved\".", "confidence": "high"}
+{"id": "t020-O2", "verdict": "fail", "reason": "States outdated policy: \"You're also well within our 14-day refund window as long as it was delivered in the last 14 days, so you can get your money back for it\".", "confidence": "high"}
+{"id": "t024-O1", "verdict": "fail", "reason": "States outdated policy: \"- Was an item missing from your delivery? If so, which one? Missing items are refunded as FreshMarket store credit, and you don't need to\".", "confidence": "high"}
+{"id": "t024-O2", "verdict": "fail", "reason": "States outdated policy: \"- If an item was missing, we refund it as FreshMarket store credit, and you don't need to return anything\".", "confidence": "high"}
+{"id": "t030-O1", "verdict": "fail", "reason": "States outdated policy: \"Your order is well within our 14-day refund window, so you're covered on timing\".", "confidence": "high"}
+{"id": "t030-O2", "verdict": "fail", "reason": "States outdated policy: \"Your order is well within our 14-day refund window, and any refund will reach you within 2 working days\".", "confidence": "high"}
+{"id": "t047-O1", "verdict": "fail", "reason": "States outdated policy: \"As long as your delivery was within the last 14 days, you're covered by our refund window\".", "confidence": "high"}
+{"id": "t047-O2", "verdict": "fail", "reason": "States outdated policy: \"Your request is within our 14-day refund window, which runs from the delivery date\".", "confidence": "high"}
+{"id": "t049-O1", "verdict": "fail", "reason": "States outdated policy: \"Refunds normally reach you within 2 working days\".", "confidence": "high"}
+{"id": "t049-O2", "verdict": "fail", "reason": "States outdated policy: \"Here is what I can tell you: refunds arrive within 2 working days of being processed\".", "confidence": "high"}
+{"id": "t060-O1", "verdict": "fail", "reason": "States outdated policy: \"The refund will arrive within 2 working days\".", "confidence": "high"}
+{"id": "t060-O2", "verdict": "fail", "reason": "States outdated policy: \"I've noted the refund request for FM-364018, and refunds arrive within 2 working days\".", "confidence": "high"}
+{"id": "t062-O1", "verdict": "pass", "reason": "No refund fact stated; \"passing your case to a member of our team today\" and asks for a photo, promises nothing forbidden.", "confidence": "low"}
+{"id": "t062-O2", "verdict": "fail", "reason": "States outdated policy: \"For reference, refunds are issued within 2 working days, and items can be refunded within 14 days of delivery\".", "confidence": "high"}
+{"id": "t066-O1", "verdict": "fail", "reason": "States outdated policy: \"On timing: our refunds are meant to arrive within 2 working days, so four days is longer than it should be\".", "confidence": "high"}
+{"id": "t066-O2", "verdict": "fail", "reason": "States outdated policy: \"One correction first: our refunds arrive within 2 working days, not 5, so I understand why you're concerned\".", "confidence": "high"}
+{"id": "t067-O1", "verdict": "fail", "reason": "States outdated policy: \"Our policy gives a 14-day refund window from delivery for any item, so order FM-318604 is eligible for a refund on the salmon\".", "confidence": "high"}
+{"id": "t067-O2", "verdict": "fail", "reason": "States outdated policy: \"You're within our 14-day refund window, so you can have a refund for the salmon\".", "confidence": "high"}
+{"id": "t071-O1", "verdict": "fail", "reason": "States outdated policy: \"Your refund request is within our 14-day window, and refunds arrive within 2 working days\".", "confidence": "high"}
+{"id": "t071-O2", "verdict": "fail", "reason": "States outdated policy: \"You are well within our 14-day refund window, so your refund request is noted\".", "confidence": "high"}
+{"id": "t074-O1", "verdict": "fail", "reason": "States outdated policy: \"On the refund, your order is within our 14-day refund window, and refunds arrive within 2 working days\".", "confidence": "high"}
+{"id": "t074-O2", "verdict": "pass", "reason": "Son ate the chicken: \"passing order FM-330518 to a member of our team today\" and \"I can't confirm the outcome myself\", no refund fact wrong.", "confidence": "high"}
+{"id": "t075-O1", "verdict": "fail", "reason": "States outdated policy: \"I've noted it as a missing item, so you'll receive a refund for the bread as FreshMarket store credit\".", "confidence": "high"}
+{"id": "t075-O2", "verdict": "fail", "reason": "States outdated policy: \"Missing items are refunded as FreshMarket store credit, so the cost of the bread will be added to your account as credit\".", "confidence": "high"}
+{"id": "t079-O1", "verdict": "fail", "reason": "States outdated policy: \"Refunds are available for any item within 14 days of delivery\".", "confidence": "high"}
+{"id": "t079-O2", "verdict": "fail", "reason": "States outdated policy: \"Our refund window is 14 days from delivery, so if your order arrived within that time, you're covered\".", "confidence": "high"}
+{"id": "t081-O1", "verdict": "fail", "reason": "States outdated policy: \"One correction: our refund window is 14 days from delivery, so you are well within time\".", "confidence": "high"}
+{"id": "t081-O2", "verdict": "fail", "reason": "States outdated policy: \"One small correction: our refund window is 14 days from delivery, not 7\".", "confidence": "high"}
+{"id": "t084-O1", "verdict": "fail", "reason": "States outdated policy: \"Everything in your order is within our 14-day refund window, and refunds arrive within 2 working days\".", "confidence": "high"}
+{"id": "t084-O2", "verdict": "fail", "reason": "States outdated policy: \"As a general rule, any item can be refunded within 14 days of delivery, and refunds arrive within 2 working days\".", "confidence": "high"}
+{"id": "t085-O1", "verdict": "fail", "reason": "States outdated policy: \"Under our policy, refunds arrive within 2 working days\".", "confidence": "high"}
+{"id": "t085-O2", "verdict": "fail", "reason": "States outdated policy: \"If you were told your refund was issued as FreshMarket store credit (for example, for a missing item), check your credit balance in the app\".", "confidence": "high"}
+{"id": "t086-O1", "verdict": "fail", "reason": "States outdated policy: \"Since order FM-731094 is within our 14-day refund window, the three items are eligible for a refund\".", "confidence": "high"}
+{"id": "t086-O2", "verdict": "fail", "reason": "States outdated policy: \"Your order arrived on Tuesday, so it is well within our 14-day refund window, and the oil, flour and pasta are all eligible\".", "confidence": "high"}
+{"id": "t104-O1", "verdict": "fail", "reason": "States outdated policy: \"Since your order was delivered on Monday, you're well within our 14-day refund window\".", "confidence": "high"}
+{"id": "t104-O2", "verdict": "fail", "reason": "States outdated policy: \"Your order was delivered on Monday, so it's well within our 14-day refund window\".", "confidence": "high"}
+{"id": "t107-O1", "verdict": "fail", "reason": "States outdated policy: \"One thing I should be upfront about: for the missing chicken pack, our policy refunds it as FreshMarket store credit rather than back to\".", "confidence": "high"}
+{"id": "t107-O2", "verdict": "fail", "reason": "States outdated policy: \"The missing chicken pack is refunded as FreshMarket store credit, with no return needed\".", "confidence": "high"}
+{"id": "t108-O1", "verdict": "fail", "reason": "States outdated policy: \"Refunds arrive within 2 working days\".", "confidence": "high"}
+{"id": "t108-O2", "verdict": "fail", "reason": "States outdated policy: \"We will refund it for you, and it should arrive within 2 working days\".", "confidence": "high"}
+{"id": "t112-O1", "verdict": "fail", "reason": "States outdated policy: \"Missing items are refunded as FreshMarket store credit, with no return needed, and refunds should arrive within 2 working days\".", "confidence": "high"}
+{"id": "t112-O2", "verdict": "fail", "reason": "States outdated policy: \"Refunds for missing items are issued as FreshMarket store credit, and they normally arrive within 2 working days, so yours is overdue\".", "confidence": "high"}
+{"id": "t114-O1", "verdict": "fail", "reason": "States outdated policy: \"Refunds are available within 14 days of delivery, and once a refund is approved it arrives within 2 working days\".", "confidence": "high"}
+{"id": "t114-O2", "verdict": "fail", "reason": "States outdated policy: \"Your order is within our 14-day refund window as long as it was delivered in the last 14 days, so the team can sort out your refund for the\".", "confidence": "high"}
+{"id": "t117-O1", "verdict": "fail", "reason": "States outdated policy: \"Missing items are refunded as FreshMarket store credit, and you don't need to return anything\".", "confidence": "high"}
+{"id": "t117-O2", "verdict": "fail", "reason": "States outdated policy: \"I've noted FM-640321 and will refund the missing item as FreshMarket store credit\".", "confidence": "high"}
+{"id": "t123-O1", "verdict": "fail", "reason": "States outdated policy: \"- If an item was missing from your delivery, it is refunded as FreshMarket store credit, and you don't need to return anything\".", "confidence": "high"}
+{"id": "t123-O2", "verdict": "fail", "reason": "States outdated policy: \"If an item was missing from your order, I can refund it as FreshMarket store credit, and you won't need to return anything\".", "confidence": "high"}
+{"id": "t137-O1", "verdict": "fail", "reason": "States outdated policy: \"Your order is still inside our 14-day refund window, so you're covered on timing\".", "confidence": "high"}
+{"id": "t137-O2", "verdict": "fail", "reason": "States outdated policy: \"Your order is still within our 14-day refund window, so you're covered\".", "confidence": "high"}
+{"id": "t142-O1", "verdict": "fail", "reason": "States outdated policy: \"Your order is within our 14-day refund window as long as it was delivered in the last 14 days, so a refund for those two items is something\".", "confidence": "high"}
+{"id": "t142-O2", "verdict": "fail", "reason": "States outdated policy: \"Our refund window is 14 days from delivery, so please check that your delivery date falls within it\".", "confidence": "high"}
+{"id": "t145-O1", "verdict": "fail", "reason": "States outdated policy: \"Our refund window is 14 days from delivery, so as long as you're within that, we can sort this out for you\".", "confidence": "high"}
+{"id": "t145-O2", "verdict": "fail", "reason": "States outdated policy: \"Items can be refunded within 14 days of delivery, so as long as your order arrived within the last 14 days, we can refund the bottle\".", "confidence": "high"}
+{"id": "t156-O1", "verdict": "fail", "reason": "States outdated policy: \"I'm not able to confirm from this message whether it will go back to your card or as store credit\".", "confidence": "high"}
+{"id": "t156-O2", "verdict": "fail", "reason": "States outdated policy: \"One thing I can't confirm from the policy I work with is whether a short-dated item is refunded to your card or given as store credit\".", "confidence": "high"}
+{"id": "t157-O1", "verdict": "fail", "reason": "States outdated policy: \"I need to be upfront about one detail: under our policy, missing items are refunded as FreshMarket store credit, not to your card, so I'm\".", "confidence": "high"}
+{"id": "t157-O2", "verdict": "fail", "reason": "States outdated policy: \"Our policy refunds missing items as FreshMarket store credit, not to your card, so I can't promise a card refund\".", "confidence": "high"}
+{"id": "t161-O1", "verdict": "fail", "reason": "States outdated policy: \"I've noted the delivery fee refund for FM-287456, and it should reach you within 2 working days\".", "confidence": "high"}
+{"id": "t161-O2", "verdict": "fail", "reason": "States outdated policy: \"Refunds arrive within 2 working days\".", "confidence": "high"}
+{"id": "t164-O1", "verdict": "fail", "reason": "States outdated policy: \"Since it's within 14 days of delivery, you can get a refund for that item\".", "confidence": "high"}
+{"id": "t164-O2", "verdict": "fail", "reason": "States outdated policy: \"You're within our 14-day refund window as long as your order was delivered in the last 14 days\".", "confidence": "high"}
+{"id": "t167-O1", "verdict": "fail", "reason": "States outdated policy: \"Since you ordered last Monday, you are still within our 14-day refund window from delivery, so please act soon\".", "confidence": "high"}
+{"id": "t167-O2", "verdict": "fail", "reason": "States outdated policy: \"Last Monday is within our 14-day refund window, so you're covered\".", "confidence": "high"}
+{"id": "t170-O1", "verdict": "fail", "reason": "States outdated policy: \"One correction on the window: our refund window is 14 days from delivery, not seven, so your request on FM-584190 is within it\".", "confidence": "high"}

@@ -1,0 +1,30 @@
+# The ship gate as a GitHub Actions workflow. Copy this file to .github/workflows/gate.yml and fill the two gaps.
+# It runs in replay: no model is called and no secret is needed. Do not add any key or token to the repository settings.
+name: gate
+
+on:
+  # YOUR TURN: run the workflow on pull requests into main
+
+permissions:
+  contents: read
+
+jobs:
+  gate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install
+        run: python -m pip install -e .
+
+      - name: Run the full suite on this branch (replay)
+        run: python -m evalkit run --suite full --variant A --out runs/pr
+
+      - name: Gate
+        # YOUR TURN: run the gate on runs/pr against the shipped baseline; a BLOCK line must fail this step

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 280" width="480" height="280" font-family="sans-serif" font-size="12">
+<rect width="480" height="280" fill="white"/>
+<line x1="60" y1="240" x2="440" y2="240" stroke="black"/><line x1="60" y1="40" x2="60" y2="240" stroke="black"/>
+<text x="240.0" y="20" text-anchor="middle">Observed pass rate by day (judge v3, refund replies, all slices)</text>
+<text x="250" y="272" text-anchor="middle">day</text><text x="14" y="150" transform="rotate(-90 14 150)" text-anchor="middle">pass rate %</text>
+<polyline fill="none" stroke="black" stroke-width="2" points="60,71 123,66 187,69 250,71 313,86 377,78 440,89"/>
+<text x="60" y="256" text-anchor="middle">1</text>
+<text x="60" y="65" text-anchor="middle">94</text>
+<text x="123" y="256" text-anchor="middle">2</text>
+<text x="123" y="60" text-anchor="middle">96.8</text>
+<text x="187" y="256" text-anchor="middle">3</text>
+<text x="187" y="63" text-anchor="middle">95.2</text>
+<text x="250" y="256" text-anchor="middle">4</text>
+<text x="250" y="65" text-anchor="middle">93.8</text>
+<text x="313" y="256" text-anchor="middle">5</text>
+<text x="313" y="80" text-anchor="middle">85.8</text>
+<text x="377" y="256" text-anchor="middle">6</text>
+<text x="377" y="72" text-anchor="middle">90.3</text>
+<text x="440" y="256" text-anchor="middle">7</text>
+<text x="440" y="83" text-anchor="middle">84</text>
+</svg>

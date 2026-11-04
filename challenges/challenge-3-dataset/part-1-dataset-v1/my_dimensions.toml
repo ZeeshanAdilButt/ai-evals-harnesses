@@ -1,0 +1,11 @@
+# My choices for dataset v1. Dimensions you can choose from: category, urgent, tone, language, length, source, easy.
+dimensions = ["category"]
+per_mix = 2
+heldout_share = 0.25
+seed = 7
+dedupe_threshold = 0.8
+
+[filters]
+
+[slices]
+delivery = { category = "delivery" }

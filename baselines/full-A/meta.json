@@ -1,0 +1,8 @@
+{
+ "note": "variant A on the full suite from the recordings; read by `evalkit gate --baseline baselines/full-A`",
+ "provider": "replay",
+ "records": 1800,
+ "suite": "full",
+ "trials": 5,
+ "variant": "A"
+}

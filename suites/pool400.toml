@@ -1,0 +1,8 @@
+name = "pool400"
+description = "All 400 pool tickets, triage, trial 1. For the pool (6.6) and for retries and resume (6.8)."
+
+[[part]]
+feature = "triage"
+dataset = "datasets/pool/tickets.jsonl"
+trials = 1
+graders = ["schema", "match"]

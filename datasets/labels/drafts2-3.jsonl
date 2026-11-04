@@ -1,0 +1,76 @@
+{"id": "t360-O1", "verdict": "fail", "reason": "\"inside the 14-day refund window\" and \"within 2 working days\"", "confidence": "high"}
+{"id": "t360-O2", "verdict": "fail", "reason": "\"Refunds arrive within 2 working days\"", "confidence": "high"}
+{"id": "t363-O1", "verdict": "fail", "reason": "\"refunds missing items as FreshMarket store credit, not to your card\"", "confidence": "high"}
+{"id": "t363-O2", "verdict": "fail", "reason": "\"issued as FreshMarket store credit, not back to your card\"", "confidence": "high"}
+{"id": "t367-O1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "t367-O2", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "t374-O1", "verdict": "fail", "reason": "\"within the last 14 days\" and \"within 2 working days\"", "confidence": "high"}
+{"id": "t374-O2", "verdict": "fail", "reason": "\"14-day refund window\", \"2 working days\", \"more than 1 hour late\"", "confidence": "high"}
+{"id": "t384-O1", "verdict": "fail", "reason": "\"refund as FreshMarket store credit\" and \"14-day window\"", "confidence": "high"}
+{"id": "t384-O2", "verdict": "fail", "reason": "\"refunded as FreshMarket store credit\" and \"14 days\"", "confidence": "high"}
+{"id": "t386-O1", "verdict": "fail", "reason": "\"Refunds ... arrive within 2 working days\"", "confidence": "high"}
+{"id": "t386-O2", "verdict": "fail", "reason": "\"within 2 working days\" and \"more than 1 hour late\"", "confidence": "high"}
+{"id": "t390-O1", "verdict": "fail", "reason": "\"inside the 14-day refund window\"", "confidence": "high"}
+{"id": "t390-O2", "verdict": "fail", "reason": "\"refunded as FreshMarket store credit\"", "confidence": "high"}
+{"id": "t391-O1", "verdict": "fail", "reason": "\"refund it as FreshMarket store credit\" and \"2 working days\"", "confidence": "high"}
+{"id": "t391-O2", "verdict": "fail", "reason": "\"refund it as FreshMarket store credit\" and \"2 working days\"", "confidence": "high"}
+{"id": "d6-144-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d6-261-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d5-283-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d7-019-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d7-269-D1", "verdict": "pass", "reason": "Someone ate the yogurt and it goes to a person today, but it also lays out the refund process (\"To process the refund ... send a photo\"), which may count as deciding a refund", "confidence": "low"}
+{"id": "d5-409-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d5-269-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d5-239-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d5-052-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d7-023-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d6-217-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d5-228-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d6-091-D1", "verdict": "fail", "reason": "Damaged eggs and yogurt but never asks for a photo before refund; nothing says one was sent", "confidence": "low"}
+{"id": "d6-433-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d6-181-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d5-436-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d5-284-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d6-164-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d7-327-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d7-234-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d7-172-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d5-034-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d7-052-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d6-328-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d7-027-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d5-323-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d7-404-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d5-330-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d5-272-D1", "verdict": "pass", "reason": "Missing items two weeks after delivery, but it only flags the team and promises nothing: \"flagging order FM-482917 for the team\"", "confidence": "low"}
+{"id": "d5-263-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d7-446-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d5-370-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d6-283-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d7-125-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d6-441-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d7-089-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d7-085-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d5-465-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d5-186-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d7-476-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d5-419-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d6-356-D1", "verdict": "fail", "reason": "Son drank the milk yet says \"will be refunded to your original payment method\", deciding a refund", "confidence": "high"}
+{"id": "d5-486-D1", "verdict": "pass", "reason": "Spoiled food sent to a person (\"flagged this for a person\"), but asks for a screenshot not a photo; promises no refund", "confidence": "low"}
+{"id": "d6-155-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d5-316-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d5-268-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d7-013-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d7-483-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d5-337-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d7-466-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d7-336-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d5-399-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d5-004-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d7-137-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d6-214-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d7-140-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d6-157-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d7-143-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d6-001-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}
+{"id": "d6-040-D1", "verdict": "pass", "reason": "Correct policy facts and no required step missing or forbidden promise", "confidence": "high"}

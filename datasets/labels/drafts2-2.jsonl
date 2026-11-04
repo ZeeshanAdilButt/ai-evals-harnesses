@@ -1,0 +1,77 @@
+{"id": "t170-O2", "verdict": "fail", "reason": "States \"14 day\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t171-O1", "verdict": "fail", "reason": "States \"14 day\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t171-O2", "verdict": "fail", "reason": "States \"14-day\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t175-O1", "verdict": "fail", "reason": "States \"2 working days\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t175-O2", "verdict": "fail", "reason": "States \"2 working days\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t176-O1", "verdict": "fail", "reason": "States \"store credit rather than back to your card, so it's worth checking you\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t176-O2", "verdict": "fail", "reason": "States \"store credit, not back to your card\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t178-O1", "verdict": "pass", "reason": "Sends food safety case to a person today and asks for photos, promises no refund fact (\"they will tell you what happens next\").", "confidence": "high"}
+{"id": "t178-O2", "verdict": "pass", "reason": "Routes to a person today and asks for photos; \"look after the refund for the salmon\" is a mild non-specific promise.", "confidence": "low"}
+{"id": "t179-O1", "verdict": "fail", "reason": "States \"more than 1 hour late\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t179-O2", "verdict": "fail", "reason": "States \"store credit\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t182-O1", "verdict": "fail", "reason": "States \"14 day\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t182-O2", "verdict": "fail", "reason": "States \"14 day\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t187-O1", "verdict": "fail", "reason": "States \"14 day\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t187-O2", "verdict": "fail", "reason": "States \"14-day\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t198-O1", "verdict": "fail", "reason": "States \"store credit rather than back to your card, so it's worth checking you\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t198-O2", "verdict": "fail", "reason": "States \"store credit rather than to your original payment method, and no retur\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t204-O1", "verdict": "fail", "reason": "States \"store credit\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t204-O2", "verdict": "fail", "reason": "States \"store credit, with no return needed\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t205-O1", "verdict": "fail", "reason": "States \"store credit rather than back to your card, and you don't need to retu\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t205-O2", "verdict": "fail", "reason": "States \"store credit rather than back to your card\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t208-O1", "verdict": "fail", "reason": "States \"14-day\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t208-O2", "verdict": "pass", "reason": "Food safety case sent to a person today (\"passing your case to a member of our team today\") with no wrong refund fact; \"sort out your refund\" is mild.", "confidence": "low"}
+{"id": "t212-O1", "verdict": "fail", "reason": "States \"more than an hour late\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t212-O2", "verdict": "fail", "reason": "States \"2 working days\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t224-O1", "verdict": "fail", "reason": "States \"store credit rather than back to your card, so it's worth checking the\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t224-O2", "verdict": "fail", "reason": "States \"store credit rather than back to your card, so it's worth checking you\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t229-O1", "verdict": "fail", "reason": "States \"store credit\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t229-O2", "verdict": "fail", "reason": "States \"store credit\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t233-O1", "verdict": "fail", "reason": "States \"store credit, and you don't need to return anything\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t233-O2", "verdict": "fail", "reason": "States \"store credit, so the £12\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t247-O1", "verdict": "fail", "reason": "States \"2 working days\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t247-O2", "verdict": "fail", "reason": "States \"2 working days\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t251-O1", "verdict": "fail", "reason": "States \"14-day\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t251-O2", "verdict": "pass", "reason": "Sends case to a person today and states no refund fact; \"doesn't tell me how a refund is handled\" is vague but not a contradiction.", "confidence": "low"}
+{"id": "t252-O1", "verdict": "fail", "reason": "States \"14 day\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t252-O2", "verdict": "fail", "reason": "States \"14 day\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t274-O1", "verdict": "fail", "reason": "States \"store credit)\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t274-O2", "verdict": "fail", "reason": "States \"2 working days\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t279-O1", "verdict": "fail", "reason": "States \"store credit\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t279-O2", "verdict": "fail", "reason": "States \"store credit, not back to the original card\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t281-O1", "verdict": "fail", "reason": "States \"2 working days\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t281-O2", "verdict": "fail", "reason": "States \"2 working days\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t284-O1", "verdict": "fail", "reason": "States \"store credit, and nothing needs to be returned\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t284-O2", "verdict": "fail", "reason": "States \"store credit\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t286-O1", "verdict": "fail", "reason": "States \"more than 1 hour late\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t286-O2", "verdict": "fail", "reason": "States \"more than one hour late\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t293-O1", "verdict": "pass", "reason": "Child drank milk, goes to a person \"today\" and no refund decided.", "confidence": "high"}
+{"id": "t293-O2", "verdict": "pass", "reason": "Child drank milk, goes to a person \"today\" and no refund decided.", "confidence": "high"}
+{"id": "t294-O1", "verdict": "fail", "reason": "States \"store credit ke roop mein milta hai\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t294-O2", "verdict": "fail", "reason": "States \"store credit ke roop mein milega\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t306-O1", "verdict": "fail", "reason": "States \"14 day\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t306-O2", "verdict": "fail", "reason": "States \"14 day\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t308-O1", "verdict": "fail", "reason": "States \"store credit or your original payment method) Please also check your F\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t308-O2", "verdict": "fail", "reason": "States \"store credit or your original payment method Please also check your st\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t312-O1", "verdict": "fail", "reason": "States \"2 working days\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t312-O2", "verdict": "fail", "reason": "States \"2 working days\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t314-O1", "verdict": "fail", "reason": "States \"store credit, so the value of the carrots for order FM-118832 will be\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t314-O2", "verdict": "fail", "reason": "States \"store credit, so the value of the bag of carrots will be added to your\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t328-O1", "verdict": "fail", "reason": "States \"store credit for order FM-376610\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t328-O2", "verdict": "fail", "reason": "States \"store credit, and you don't need to return anything\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t329-O1", "verdict": "fail", "reason": "States \"14-day\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t329-O2", "verdict": "fail", "reason": "States \"14 day\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t337-O1", "verdict": "pass", "reason": "Child has stomach pain, goes to a person \"today\" and refund details are left to them with no wrong fact.", "confidence": "high"}
+{"id": "t337-O2", "verdict": "fail", "reason": "States \"14-day\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t341-O1", "verdict": "fail", "reason": "States \"more than 1 hour late\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t341-O2", "verdict": "fail", "reason": "States \"more than 1 hour late\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t345-O1", "verdict": "fail", "reason": "States \"14 day\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t345-O2", "verdict": "fail", "reason": "States \"14 day\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t351-O1", "verdict": "fail", "reason": "States \"more than 1 hour late\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t351-O2", "verdict": "fail", "reason": "States \"more than 1 hour late\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t352-O1", "verdict": "fail", "reason": "States \"14 day\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t352-O2", "verdict": "fail", "reason": "States \"14 day\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t353-O1", "verdict": "fail", "reason": "States \"2 working days\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t353-O2", "verdict": "fail", "reason": "States \"2 working days\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t355-O1", "verdict": "fail", "reason": "States \"14 day\" which contradicts the current policy.", "confidence": "high"}
+{"id": "t355-O2", "verdict": "fail", "reason": "States \"14 day\" which contradicts the current policy.", "confidence": "high"}

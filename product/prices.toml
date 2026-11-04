@@ -1,0 +1,9 @@
+# List price in dollars per million tokens (checked on the provider's price page, 2026-11-04). Batched recordings were billed at half;
+# the gate and the cost tables use these list prices, so a number does not depend on how a recording was sent.
+["claude-sonnet-5-5"]
+input = 2.00
+output = 10.00
+
+["claude-haiku-5-5"]
+input = 0.10
+output = 0.50
